@@ -4,4 +4,4 @@ Project made using arduino, its objective it's to track a satellite making use o
 
 The First Iteration of the device using a 2dof arduino based PWM motors:
 
-![alt text](https://imgur.com/gallery/A1fmz1z)
+![1st Iteration lf the Tracker Device](https://imgur.com/gallery/A1fmz1z)
